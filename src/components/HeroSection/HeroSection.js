@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import Video from '../../videos/video-1.mp4';
+// import Video from '../../videos/video-1.mp4';
 import { Button } from '../Button';
 
 const HeroSection = () => {
